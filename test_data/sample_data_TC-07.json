@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Mike Allen",
+    "phone_number": "(613) 456-4513",
+    "address": "6323 Maple Dr, Jacksonville, FL 90402"
+  },
+  {
+    "id": "2",
+    "name": "Paula Allen",
+    "phone_number": "(667) 341-2700",
+    "address": "3547 Willow Way, San Diego, CA 49772"
+  },
+  {
+    "id": "3",
+    "name": "Yara Jackson",
+    "phone_number": "(911) 258-5473",
+    "address": "8116 Cedar Ln, Dallas, TX 35700"
+  }
+]
